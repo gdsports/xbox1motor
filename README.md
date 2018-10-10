@@ -7,6 +7,9 @@ USB host capability of the SAMD21. The
 [USB Host Library for SAMD](https://github.com/gdsports/USB_Host_Library_SAMD)
 is required to make this work.
 
+The Boring Company (Elon Musk's tunnel digging company) uses an
+[Xbox controller](https://www.engadget.com/2018/09/10/boring-company-steers-machine-with-xbox-controller/).
+
 ## Dependencies
 
 * [USB Host Library for SAMD](https://github.com/gdsports/USB_Host_Library_SAMD)
